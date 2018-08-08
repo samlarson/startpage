@@ -1,0 +1,78 @@
+
+header {
+  margin: 100px auto;
+}
+
+h1 {
+  display: block;
+  font-family: 'Overpass', sans-serif;
+  font-size: 3.0em;
+  text-align: center;
+  color: #eff1f5;
+}
+
+.main h3 {
+  font-family: 'Overpass', sans-serif;
+  font-weight: 500;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+}
+
+.main a {
+  font-family: 'Overpass', sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.main ul {
+  margin: 0;
+  padding: .125em 0;
+  text-align: center;
+  list-style: none;
+}
+
+.main section {
+  display: inline-block;
+  float: left;
+  margin: 20px 15%;
+  width: 70%;
+}
+
+.wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #282828;
+  color: #eff1f5;
+}
+
+body a, body a:visited {
+  color: #65737e;
+}
+
+body a:hover {
+  color: #689d6a;
+}
+
+.main ul {
+  background-color: #EFF1F5;
+}
+
+.general h3 {
+  background-color: #458588;
+}
+
+.content h3 {
+  background-color: #b16286;
+}
+
+.mail h3 {
+  background-color: #98971a;
+}
+
+.money h3 {
+  background-color: #cc241d;
+}
