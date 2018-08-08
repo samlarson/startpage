@@ -34,7 +34,7 @@ h1 {
 
 .main section {
   display: inline-block;
-  float: left;
+  float: center;
   margin: 20px 15%;
   width: 70%;
 }
